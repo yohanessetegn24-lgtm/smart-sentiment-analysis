@@ -1,5 +1,7 @@
 streamlit
 transformers
 torch
+pandas
+PyPDF2
+python-docx
 sentencepiece
-tiktoken
