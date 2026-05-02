@@ -6,8 +6,7 @@ from docx import Document
 import io
 
 # --- 1. ገጹን ማስተካከል (Page Settings) ---
-st.set_page_config(page_title="Smart Sentiment Analysis on Ethiopian
-Social Media", page_icon="🤖", layout="centered")
+st.set_page_config(page_title="Smart sentiment analyis on ethiopian social media ", page_icon="🤖", layout="centered")
 
 # --- 2. PROFESSIONAL CSS DESIGN ---
 st.markdown("""
