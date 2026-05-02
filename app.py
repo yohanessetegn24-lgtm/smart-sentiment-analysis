@@ -81,8 +81,7 @@ def extract_docx_text(file):
     return " ".join([p.text for p in doc.paragraphs])
 
 # --- 5. UI CONTENT ---
-st.markdown("<h1 class='main-title'>Smart Sentiment Analysis on Ethiopian
-Social Media 🤖</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>Smart Sentiment Analysis on Ethiopian Social Media 🤖</h1>", unsafe_allow_html=True)
 st.write("<p style='text-align:center;'>Multilingual Support: አማርኛ | English</p>", unsafe_allow_html=True)
 
 # TABS መፍጠር
